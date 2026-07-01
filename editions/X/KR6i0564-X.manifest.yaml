@@ -1,0 +1,412 @@
+canonical_identifier: bkk:krp/KR6i0564/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0564/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 圓覺經夾頌集解講義
+  identifiers:
+    krp: KR6i0564
+    cbeta: X10n0253
+    cbeta_old_id: X10n0253
+    authorityid: CA0003872
+    json_key: X0253
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X10/X10n0253.xml
+    old_id: X10n0253
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0564_000-X.yaml, hash: 'sha256:fdea39cb3fb2cd1bf43a64c0a0a95791be4f543a3cb35da64d86424e952c21c5'}
+  - {seq: 1, filename: KR6i0564_001-X.yaml, hash: 'sha256:39bb1251ba5d4cc7fd5bdcc85c2f6568bea77c586d246be43a53e311c8bac1f4'}
+  - {seq: 2, filename: KR6i0564_002-X.yaml, hash: 'sha256:07afed3dc761ca2262d7c297f359457b6e2b67b78c00eef32e392505bfbc42ef'}
+  - {seq: 3, filename: KR6i0564_003-X.yaml, hash: 'sha256:2e074b31c1cba6a15101e4722a1159c1763c31aa6a5b016cdabf383b1e1b0394'}
+  - {seq: 4, filename: KR6i0564_004-X.yaml, hash: 'sha256:6b9b2494d99eba1d1c98184c857e0ced61d449c0168022efeaf23d58592d5d1a'}
+  - {seq: 5, filename: KR6i0564_005-X.yaml, hash: 'sha256:7d6017d14f11df7b033f896ada7d2f504e22768bf39a3f20a16986bbcd4a23c4'}
+  - {seq: 6, filename: KR6i0564_006-X.yaml, hash: 'sha256:caa4e30b36bd79b91a1b553a974e5a209c739f28e9409628e7cc314dcb62f401'}
+  - {seq: 7, filename: KR6i0564_007-X.yaml, hash: 'sha256:6d6abdc75db0bee8b8b1a5440bf342a34f3fd3180d46e76f7988bdab2c356fb2'}
+  - {seq: 8, filename: KR6i0564_008-X.yaml, hash: 'sha256:322979d4a8346ee0268fbd671adaa7682fc3c39a0d4999c7bf7bc7c5d62e26e2'}
+  - {seq: 9, filename: KR6i0564_009-X.yaml, hash: 'sha256:572185deda45b7e91830948bf09df62577bc56676d82612f08e8807c3167a48c'}
+  - {seq: 10, filename: KR6i0564_010-X.yaml, hash: 'sha256:c542eb2a42adc9dd4c6894aa511a0596d7e834779cc65381786bb5ae08fc11e8'}
+  - {seq: 11, filename: KR6i0564_011-X.yaml, hash: 'sha256:3ca221fb59eb24a52a9f11958879230f9927853bff19cc968f44382597ca37d0'}
+  - {seq: 12, filename: KR6i0564_012-X.yaml, hash: 'sha256:2b5e1fa66bf91cf6c0c64565600bb0d55884fdbb858b3bc2fb5ecef21b878c42'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0564_000-X.markers.yaml, hash: 'sha256:3110673677edf8bdeeff5ae2e2196a3561c68f94ecca40999eaa3f685238a44c'}
+  - {seq: 1, role: markers, filename: assets/KR6i0564_001-X.markers.yaml, hash: 'sha256:77ed887341852be6bd5d2e1b6bbf68a2d978e09b1f57da57bf7bf84ebdc982f7'}
+  - {seq: 2, role: markers, filename: assets/KR6i0564_002-X.markers.yaml, hash: 'sha256:1b10ea78858ba426f28793e4db6909c665f6ee6ee4133301692679633c469c94'}
+  - {seq: 3, role: markers, filename: assets/KR6i0564_003-X.markers.yaml, hash: 'sha256:314cdc0f8637f462925b5a2bb5e68880ed8d201c8d46c4a909d335a869e65792'}
+  - {seq: 4, role: markers, filename: assets/KR6i0564_004-X.markers.yaml, hash: 'sha256:7d346d961cad62434d3af396cf8dc6ea5e824d1c61fe88b132838d8c711091fe'}
+  - {seq: 5, role: markers, filename: assets/KR6i0564_005-X.markers.yaml, hash: 'sha256:81b6e3730a3fb318608ea1b7c458d7592790b44c8b9ef2ae5118a455f792d844'}
+  - {seq: 6, role: markers, filename: assets/KR6i0564_006-X.markers.yaml, hash: 'sha256:3ccee72b0196bb2dc5916f36ec7375f0bb408584e22bb8500b8e9d14fe01c4ce'}
+  - {seq: 7, role: markers, filename: assets/KR6i0564_007-X.markers.yaml, hash: 'sha256:cc233ae4fe584ceebf2ced03ae08aea90b43d41932c9c109f71638f74968fe7c'}
+  - {seq: 8, role: markers, filename: assets/KR6i0564_008-X.markers.yaml, hash: 'sha256:1604eca5fcf4411333e3608f6a381572f187e30415f68a120a7f6b4fda96f9d8'}
+  - {seq: 9, role: markers, filename: assets/KR6i0564_009-X.markers.yaml, hash: 'sha256:1f4f19fedfc33bcde282b92237d1b82fdd6f62e8568f0cced8e58e8e46ed3b40'}
+  - {seq: 10, role: markers, filename: assets/KR6i0564_010-X.markers.yaml, hash: 'sha256:e0ef927d0945980fa8f19f96efb2d6a49f97a05fa59d2c67aaf742a22ec6aee7'}
+  - {seq: 11, role: markers, filename: assets/KR6i0564_011-X.markers.yaml, hash: 'sha256:2d7eac6eebc258ba781542775e2ff94e0cdc4a66666c412fd46a7110411544b2'}
+  - {seq: 12, role: markers, filename: assets/KR6i0564_012-X.markers.yaml, hash: 'sha256:e08d53f9767af047d80de98ffa94b6d0c36565092f9fd3a9b9b2b4836448bdfe'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0564_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 253-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6i0564_X_000-mulu-2
+    span:
+    - front
+    - 310
+    - 310
+  label: No. 253-B 十二章來意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0564_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 23498
+  label: '大方廣圓覺脩多羅了義經夾頌集
+
+    解講義'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0564_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0564_X_001-mulu-2
+    span:
+    - body
+    - 1579
+    - 1579
+  label: 譯師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0564_X_001-mulu-3
+    span:
+    - body
+    - 2167
+    - 2167
+  label: 序分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0564_X_001-mulu-4
+    span:
+    - body
+    - 8236
+    - 8236
+  label: 正宗分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0564_X_001-mulu-5
+    span:
+    - body
+    - 8236
+    - 8236
+  label: 文殊師利菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0564_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 8872
+  label: 大方廣圓覺脩多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0564_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 普賢菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0564_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 22133
+  label: 大方廣圓覺修多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0564_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 普眼菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0564_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 11412
+  label: 大方廣圓覺修多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0564_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 金剛藏菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0564_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 15963
+  label: 大方廣圓覺脩多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0564_X_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 彌勒菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0564_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 14111
+  label: 大方廣圓覺修多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0564_X_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 清淨慧菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0564_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 12000
+  label: 大方廣圓覺修多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0564_X_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 威德自在菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0564_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 11515
+  label: 大方廣圓覺修多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0564_X_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 辨音菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0564_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 16807
+  label: 大方廣圓覺脩多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0564_X_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 淨諸業障菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0564_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 12772
+  label: 大方廣圓覺修多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6i0564_X_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 普覺菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6i0564_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 13346
+  label: 大方廣圓覺脩多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6i0564_X_011-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 圓覺菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0564_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 9051
+  label: 大方廣圓覺脩多羅了義經夾頌集解講義
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0564_X_012-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 流通分
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0564_X_012-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 賢善首菩薩章
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0564_X_012-mulu-3
+    span:
+    - body
+    - 8631
+    - 8631
+  label: No. 253-C 前住持靈隱禪寺癡絕老人跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0564_X_012-mulu-4
+    span:
+    - body
+    - 8732
+    - 8732
+  label: No. 253-D 徑山長老圓照老人䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0564_X_012-mulu-5
+    span:
+    - body
+    - 8831
+    - 8831
+  label: No. 253-E 靈隱長老石溪老人䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0564_X_012-mulu-6
+    span:
+    - body
+    - 8892
+    - 8892
+  label: No. 253-F 慶元府雪竇長老偃溪老人䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6i0564_X_012-mulu-7
+    span:
+    - body
+    - 8989
+    - 8989
+  label: No. 253-G 慶元府雪竇長老偃谿老人䟦
+  type: mulu
+  level: 1
+hash: sha256:ce01d713f536a82dd991d77ff64bd0afcc7e3c40b1bb40211ff88fcfca77a82c
