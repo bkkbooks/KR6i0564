@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0564_000.yaml, hash: 'sha256:eb8596b300b32f0296b4654ed8ad83d340f2b0aceb4780742cfe21ed00b6181c'}
+  - {seq: 0, filename: KR6i0564_000.yaml, hash: 'sha256:bed5d63ef11799b8233e008471749a9fe65f7ac7e778ab7f76fd8a437666b72d'}
   - {seq: 1, filename: KR6i0564_001.yaml, hash: 'sha256:a49bd8928c371454aa1b1705c9ffc09073aaba33be9d3d00e36d69f266f21c73'}
   - {seq: 2, filename: KR6i0564_002.yaml, hash: 'sha256:13ca4e9c02b28aa87129d1f41c17ff53acc223915d668512160559b171e959d9'}
   - {seq: 3, filename: KR6i0564_003.yaml, hash: 'sha256:593809878e0d1c810d9a5c2c7aeba5f072baaad21fd0fc6a1ff1b77c7144e3be'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 11, filename: KR6i0564_011.yaml, hash: 'sha256:9277397e3a2a61e776434feec0e2893d352707a48f92f26ccc91f6d700c40617'}
   - {seq: 12, filename: KR6i0564_012.yaml, hash: 'sha256:f859819767c676986bbe9880c72aa81ff8dbb8230838215c56495109269ebeee'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0564_000.markers.yaml, hash: 'sha256:d77e0ba19cf4d27fca335f127308d1e9e50302c4e3271bee0804ae056fd83016'}
+  - {seq: 0, role: markers, filename: assets/KR6i0564_000.markers.yaml, hash: 'sha256:c3982df637aa12c85acec8a2b9d82afb23df526266ca815b15999c20ac0bd09b'}
   - {seq: 1, role: markers, filename: assets/KR6i0564_001.markers.yaml, hash: 'sha256:d02db372012a332e305b5b7658d2b2e177142cc683f9fcbfa5ab14da7b8a7dc0'}
   - {seq: 2, role: markers, filename: assets/KR6i0564_002.markers.yaml, hash: 'sha256:ec970355c315200271ccd25d0cdd9eb7c9f60cd6c799efdf3c536e00555f93da'}
   - {seq: 3, role: markers, filename: assets/KR6i0564_003.markers.yaml, hash: 'sha256:39cad00702b85060d5e1d0c05ac9100b79f6647f34458373e548436f823a531e'}
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0564_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 253-A
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0564_X_000-mulu-2
     span:
-    - front
+    - body
     - 310
     - 310
   label: No. 253-B 十二章來意
@@ -411,7 +411,7 @@ table_of_contents:
   label: No. 253-G 慶元府雪竇長老偃谿老人䟦
   type: mulu
   level: 1
-hash: sha256:117427a99a69b03505eb8f5bf998825ee3ef85e888a6ea38842503cf8849a628
+hash: sha256:3d504b443fc29584f6ef70eeb879b236188b1c66a4a335f03780ec39c8f5ec4c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
